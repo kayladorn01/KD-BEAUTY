@@ -1,0 +1,12 @@
+.category-page-container {
+    min-height: 90vh;
+}
+
+.category-banner-container {
+    height: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: pink;
+}
